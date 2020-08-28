@@ -4,7 +4,7 @@
 ##### Пример 1: ```__GetCrashes(false, true);```
 <img src='https://i.imgur.com/z4dp9IN.png'/>
 
-##### Пример 2: ```__GetCrashes(true, false);```
+##### Пример 2: ```__GetCrashes(true, true);```
 <img src='https://i.imgur.com/Z2MWuaN.png'/>
 
 ##### Пример запуска:
